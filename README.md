@@ -35,7 +35,7 @@ A Budget Tracker application that functions as a Progressive Web application.  U
 
 * The graph will show the change in total balance for every transaction.
 
-  ![PWA Budget Tracker Screenshot](public/assets/images/pwa-budget-tracker-screenshot.png)
+  ![PWA Budget Tracker Screenshot](public/assets/images/pwaBudgetTracker.jpg)
 
 * The app can be used online and offline
 
@@ -45,7 +45,7 @@ A Budget Tracker application that functions as a Progressive Web application.  U
 
 * You can download the app by pressing the download button (screenshot below)
 
-  ![Download App](public/assets/images/)
+  ![Download App](public/assets/images/downloadApp.jpg)
 
 ## Links
 
