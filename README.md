@@ -49,8 +49,8 @@ A Budget Tracker application that functions as a Progressive Web application.  U
 
 ## Links
 
-* [Github]( LINK )
-* [Live Heroku App]( LINK )
+* [Github]( https://github.com/mellowmoo )
+* [Live Heroku App]( https://pacific-sierra-20869.herokuapp.com/ )
 
 ## Features
 
